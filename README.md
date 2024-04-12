@@ -1,2 +1,2 @@
 # WEB DEVELOPMENT
-Contains programme I practiced while learning bankend.
+Contains programme I practiced while learning bank end.
